@@ -27,5 +27,14 @@ Holds the main logic of the GUI . All .fxml files are connected to the controlle
 1. Javafx (for GUI application) .
 ## UML Diagrams
 [UML Diagrams.pdf](https://github.com/Ansh-25/ATM-Bank/files/7609928/UML.Diagrams.pdf)
+## Video walkthrough
+
+
+https://user-images.githubusercontent.com/75000839/143612374-e56c883a-2741-4043-a34f-79fe0c4f8a33.mp4
+
+
+
+https://user-images.githubusercontent.com/75000839/143612386-88fd86a6-d6d7-4b19-b3b6-9c9f52a6f31d.mp4
+
 
 
